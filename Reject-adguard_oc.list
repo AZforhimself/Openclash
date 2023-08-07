@@ -1,7 +1,10 @@
-DOMAIN-SUFFIX,miav-cse.avlyun.com #腾讯/安天
-DOMAIN-SUFFIX,a0.app.xiaomi.com #小米跟踪API
-DOMAIN-SUFFIX,miui-fxcse.avlyun.com #腾讯/安天
-DOMAIN-SUFFIX,api.installer.xiaomi.com #应用包扫描API
+ #腾讯/安天
+DOMAIN-SUFFIX,miav-cse.avlyun.com
+DOMAIN-SUFFIX,miui-fxcse.avlyun.com
+ #小米跟踪API
+DOMAIN-SUFFIX,a0.app.xiaomi.com
+#应用包扫描API
+DOMAIN-SUFFIX,api.installer.xiaomi.com 
 
 #此处主要屏蔽小米云扫描组件
 DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
