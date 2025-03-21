@@ -1,6 +1,3 @@
-DOMAIN-SUFFIX,ap6.ssl.msdk.qq.com
-# DOMAIN-SUFFIX,grpc.biliapi.net
-
 #Direct
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.direct
@@ -9,3 +6,5 @@ DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,tracker.m-team.io
 DOMAIN-SUFFIX,obsidian.md
 DOMAIN-SUFFIX,andyj.link
+DOMAIN-SUFFIX,ap6.ssl.msdk.qq.com
+# DOMAIN-SUFFIX,grpc.biliapi.net
