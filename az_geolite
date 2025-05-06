@@ -41,7 +41,6 @@ ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🎯 全球直连,[]geosite,private
 ruleset=🎯 全球直连,[]geosite,cn
 ruleset=🎯 全球直连,[]geosite,category-games@cn
-ruleset=🎯 全球直连,[]geosite,steam@cn
 ruleset=🎯 全球直连,[]geosite,cloudflare
 ruleset=🎯 全球直连,[]geosite,tencent
 ruleset=🎯 全球直连,[]geosite,alibaba
