@@ -1,10 +1,12 @@
-#PT
+# PT
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,tracker.m-team.io
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,btschool.club
-#Media
+# Media
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,obsidian.md
+# local-ai
+DOMAIN-SUFFIX,cherry-ai.com
