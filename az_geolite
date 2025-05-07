@@ -12,14 +12,14 @@
 ;设置规则标志位
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/AZforhimself/Openclash/refs/heads/main/ubban.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/AZforhimself/Openclash/refs/heads/main/local.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/AZforhimself/Openclash/main/ubban.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/AZforhimself/Openclash/main/local.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ruleset=🛑 广告拦截,[]geosite,category-ads-all
 ruleset=📢 谷歌FCM,[]geosite,googlefcm
 ruleset=📢 谷歌🇨🇳,[]geosite,google@cn
-ruleset=📢 谷歌,https://raw.githubusercontent.com/AZforhimself/Openclash/refs/heads/main/Google.list
-ruleset=地区受限,https://raw.githubusercontent.com/AZforhimself/Openclash/refs/heads/main/overseas-plus.list
+ruleset=📢 谷歌,https://raw.githubusercontent.com/AZforhimself/Openclash/main/Google.list
+ruleset=地区受限,https://raw.githubusercontent.com/AZforhimself/Openclashs/main/overseas-plus.list
 ruleset=三星服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Samsung.list
 ruleset=📹 油管视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 ruleset=Ⓜ️ 微软Bing,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list
