@@ -8,5 +8,7 @@ DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,obsidian.md
-# local
-
+# wows
+DOMAIN-KEYWORD,worldofwarships
+DOMAIN-KEYWORD,wargaming
+DOMAIN-SUFFIX,wargaming.net
