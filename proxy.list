@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,globalfirepower.com
 
 # process-proxy
 PROCESS-NAME,mosdns
+
+#book
+DOMAIN-SUFFIX,z-lib.gs
