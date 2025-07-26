@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,qytaff.pro
 DOMAIN-SUFFIX,paopao.dog
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,globalfirepower.com
+DOMAIN-SUFFIX,speedtest.net
 
 # process-proxy
 PROCESS-NAME,mosdns
