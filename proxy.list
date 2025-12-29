@@ -11,3 +11,6 @@ PROCESS-NAME,mosdns
 
 #book
 DOMAIN-SUFFIX,z-lib.gs
+
+#other
+DOMAIN-KEYWORD,yahoo
