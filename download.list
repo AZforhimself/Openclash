@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,dl.aslain.com
 DOMAIN-SUFFIX,lineageos.org
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,pypi.org
 
 #AIModel
 DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
