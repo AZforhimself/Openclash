@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,ip2location.io
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,obsidian.md
+# other
+DOMAIN-SUFFIX,www.kaspersky.com.cn
+# Game
+DOMAIN-SUFFIX,battlenet.net
 
 #Download
 PROCESS-NAME,BaiduNetdisk_mac
