@@ -15,8 +15,8 @@ DOMAIN-SUFFIX,obsidian.md
 # other
 DOMAIN-SUFFIX,www.kaspersky.com.cn
 # Game
-DOMAIN-SUFFIX,battlenet.net
-DOMAIN-SUFFIX,battle.net
+# DOMAIN-SUFFIX,battlenet.net
+# DOMAIN-SUFFIX,battle.net
 
 #Download
 PROCESS-NAME,BaiduNetdisk_mac
