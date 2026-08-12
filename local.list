@@ -4,16 +4,21 @@ DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,tracker.m-team.io
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,btschool.club
+
 #IP
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ip2location.io
+
 # Media
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,obsidian.md
+
 # other
-DOMAIN-SUFFIX,www.kaspersky.com.cn
+DOMAIN-SUFFIX,kaspersky.com.cn
+DOMAIN-SUFFIX,echopai.com
+
 # Game
 # DOMAIN-SUFFIX,battlenet.net
 # DOMAIN-SUFFIX,battle.net
