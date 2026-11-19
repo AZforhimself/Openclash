@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,pip.org
+DOMAIN-SUFFIX,hub.docker.com
 
 #AIModel
 DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
